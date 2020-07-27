@@ -1,13 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm a graduating VFX & Game Programming student at ArtFx with a passion for coding 💻 & cocktails 🍹
 
 [www.lee.graphics](http://www.lee.graphics)
 
-#### Pulsar
+## Pulsar
 My open source VFX Pipeline
+
 [pulsarvfx.com](https://pulsarvfx.com/)
+
 [Pulsar Repository](https://github.com/lgeertsen/Pulsar)
+
+
+##
 
 📫 How to reach me: lgeertsen@artfx.fr
 
