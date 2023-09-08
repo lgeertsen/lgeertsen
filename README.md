@@ -1,3 +1,5 @@
+
+<!--
 # Hi there 👋
 
 I'm a graduating VFX & Game Programming student at ArtFx with a passion for coding 💻 & cocktails 🍹
@@ -7,7 +9,6 @@ I'm a graduating VFX & Game Programming student at ArtFx with a passion for codi
 ## Pulsar
 My open source VFX Pipeline
 
-<!--[pulsarvfx.com](https://pulsarvfx.com/)-->
 
 [Pulsar Repository](https://github.com/lgeertsen/Pulsar)
 
@@ -16,7 +17,7 @@ My open source VFX Pipeline
 
 📫 How to reach me: lee.geertsen@hotmail.com
 
-<!--
+
 **lgeertsen/lgeertsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
